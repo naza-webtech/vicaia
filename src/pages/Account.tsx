@@ -31,11 +31,9 @@ export default function Account() {
                 For now, use WhatsApp to place and track your orders:
               </p>
               <a
-<<<<<<< HEAD
-                href="https://wa.me/255689737254"
-=======
+
                 href="https://wa.me/255743128678"
->>>>>>> 44bd7bf79d07bbc514e3bc3a54dd76cacb0dc9af
+
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-black text-white font-montserrat font-medium tracking-widest uppercase text-xs px-8 py-4 transition-colors hover:bg-[#C89B7B]"
